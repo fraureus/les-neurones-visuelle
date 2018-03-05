@@ -20,7 +20,7 @@
 - Back propagation (light up layer being computed)
 - Neural network prediction
 - Weight updates
-- Addition of nodes
+- Addition of nodes (automatic alignment to current layer of nodes)
 
 ### Shader
 - PhongShader
